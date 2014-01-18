@@ -1,10 +1,4 @@
-This repo is DEPRECATED
-=======================
-
-Highly recommend you try out http://my.opera.com/Deathamns/blog/opera-extension-imagus as I've decided to discontinue support for HoverFree.
-============================================================================================================================================
-
-hoverfree 
+HoverFree 
 =========
 
 Fork of hoverzoom.net -- this Chrome extension will show an image if you hover its thumbnail or a link.
@@ -24,11 +18,4 @@ HoverFree will never track or record browsing activity.
 Installation:
 =============
 
-Easiest method is Chrome Web Store: https://chrome.google.com/webstore/detail/hover-free/hcmnnggnaofmhflgomfjfbndngdoogkj
-
-For manual installation, simplest method is:
-```
-git archive --format zip --output ~/hoverfree.zip master 
-```
-
-Over 24,000 weekly users as of 7/13!
+Drag and drop the (unzipped) root folder into the Extensions tab of Chrome, and it should automatically install HoverFree.
